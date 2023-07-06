@@ -1,0 +1,7 @@
+1->2 (cost : 4)
+1->3 (cost : 6)
+1->2->4 (cost : 7)
+can not reach to node 5
+1->3->6 (cost : 7)
+1->2->4->8->7 (cost : 17)
+1->2->4->8 (cost : 8)
